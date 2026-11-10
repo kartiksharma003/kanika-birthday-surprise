@@ -1,14 +1,18 @@
-KANIKA BIRTHDAY SURPRISE WEBSITE
+KANIKA BIRTHDAY WEBSITE — UPGRADED VERSION
 
 Included:
 - index.html
-- Three uploaded photos in assets/
-- Your uploaded birthday video in assets/
+- assets/kanika-memory-1.jpg
+- assets/kanika-memory-2.jpg
+- assets/kanika-memory-3.jpg
+- assets/kanika-special-video.mp4
 
-Preview:
-Open index.html in a modern browser. Keep the assets folder beside index.html.
+IMPORTANT GITHUB UPLOAD STEPS:
+1. Extract this ZIP.
+2. Open your GitHub repository.
+3. Upload/replace index.html in the repository root.
+4. Open the assets folder and make sure all four asset files are inside it.
+5. You can keep the original root-level copies too; they are not harmful.
+6. Commit changes. Wait for GitHub Pages to redeploy, then refresh the website.
 
-Publish:
-Upload the complete folder contents (index.html and assets folder) to your static hosting service, such as GitHub Pages. Do not upload index.html alone, or the photos/video will not appear.
-
-The video has playback controls. Photos and video are bundled with the website; they are not uploaded by the page itself.
+Keep the assets folder and index.html at the same level. The page references assets/filename.
